@@ -6,7 +6,9 @@ class IrairaState extends DogState {
         return s;
     }
 
-    public void tukareta(Dog moto){}
+    public void tukareta(Dog moto){
+        moto.changeState(byokiState.getInstance());
+    }
     public void tabeta(Dog moto){
         moto.changeState(FutsuuState.getInstance());
     }

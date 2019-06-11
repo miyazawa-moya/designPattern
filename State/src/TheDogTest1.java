@@ -10,6 +10,9 @@ public class TheDogTest1 {
         pochi.roudou();
         pochi.jyoutaiNani();
 
+        pochi.roudou();
+        pochi.jyoutaiNani();
+
         pochi.shokuji();
         pochi.jyoutaiNani();
 
