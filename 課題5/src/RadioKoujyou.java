@@ -1,3 +1,4 @@
+//Kojyouクラスの実体
 class RadioKojyou extends Kojyou {
     @Override
     public Seihin factoryMethod() {

@@ -1,3 +1,4 @@
+//Kokyouクラスの実体
 public class TvKojyou extends Kojyou {
     @Override
     public Seihin factoryMethod() {
